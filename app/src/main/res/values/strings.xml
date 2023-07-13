@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Eval-AND2-Exo1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo_bloggies">Logo de Bloggies.</string>
+    <string name="connexion_via_twitter">Connexion via Twitter</string>
+    <string name="connexion_via_facebook">Connexion via Facebook</string>
+    <string name="logo_connexion">Logo de la page de connexion.</string>
+    <string name="connexion">connexion</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="success_login">Félicitations, vous êtes connecté !!!</string>
+    <string name="logo_inscription">logo de la page d\'inscription.</string>
+    <string name="inscription">Inscription</string>
+    <string name="email_register">Email ?</string>
+    <string name="login_register">Login ?</string>
+    <string name="password_register">Password ?</string>
+    <string name="confirmation_register">Confirmation ?</string>
+</resources>
