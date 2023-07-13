@@ -11,9 +11,6 @@ import com.mirodeon.eval_and2_exo1.form.FormRegisterFragment
 
 class RegisterFragment : Fragment() {
     private var binding: FragmentRegisterBinding? = null
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-    }
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
